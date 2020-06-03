@@ -1,10 +1,6 @@
 
     
     
-    #secao1 {
-     
-    }
-    
     #secao2 {
         padding: 1rem;
     }
@@ -102,6 +98,11 @@
         #col2 {
             margin-top: 6rem;
         }
+        
+    #secao1 {
+    margin-top: 1rem; 
+    }
+    
         #secao1 h1 {
             font-size: 5vh;
             color: #EAF2EF;
@@ -120,7 +121,7 @@
             clip-path: none;
         }
         #botao1 {
-            width: 7 0vw;
+            width: 70vw;
         }
         #vai {
             display: none;
